@@ -11,6 +11,10 @@ body {
     color: #F5F5F5;
 }
 
+img {
+    width: 50%;
+}
+
 h1 {  
     font-size: 3rem;
     text-align: center;
