@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    padding: 1em;
+    font-family: "Tinos", serif;
+    background-color: #333333;
+    color: #F5F5F5;
+}
+
+h1 {  
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+}

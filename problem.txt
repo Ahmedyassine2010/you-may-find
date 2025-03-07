@@ -1,0 +1,3 @@
+the alignment, the white space, the colors, responsive design
+When I change the language, not the whole page changes to that language
+and we can add dark mode
